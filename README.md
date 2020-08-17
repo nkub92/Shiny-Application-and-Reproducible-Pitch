@@ -19,4 +19,4 @@ When selecting a specific date, the App plot the evolution of all the variables.
 
 - The shiny application is deployed on ShinyApps.io server at: https://ulrichnguemdjo.shinyapps.io/project/
 - The RStudio presentation slides is published to RPubs at: https://rpubs.com/Nkub92/MyProjectAppPresentation
-- Git repository at: https://github.com/nkub92/Shiny-Application-and-Reproducible-Pitch/
+- Git repository at: https://github.com/nkub92/Shiny-Application-and-Reproducible-Pitch
